@@ -11,11 +11,11 @@ class AuthController extends Controller
 {
 
     public function index(){
-        return view(welcome);
+        return view('welcome');
     }
 
     public function path(){
-        return view(pathway);
+        return view('pathway');
     }
 
 
