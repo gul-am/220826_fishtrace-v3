@@ -18,5 +18,9 @@ class AuthController extends Controller
         return view('pathway');
     }
 
+    public function whindex() {
+        return view ('wh.wh-index');
+    }
+
 
 }

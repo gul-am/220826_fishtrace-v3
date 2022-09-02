@@ -28,21 +28,25 @@
             <div class="col-lg-8">
                 <div class="row">
 
+
                             <div class="col-md-4">
-                                <div class="card">
-                                    <div class="card-header mx-4 p-3 text-center">
-                                        <div class="icon icon-shape icon-lg bg-gradient-primary shadow text-center border-radius-lg">
-                                            <i class="fas fa-dolly-flatbed opacity-10"></i>
+                                <a href="{{ route('wh-index') }}">
+                                    <div class="card">
+                                        <div class="card-header mx-4 p-3 text-center">
+                                            <div class="icon icon-shape icon-lg bg-gradient-primary shadow text-center border-radius-lg">
+                                                <i class="fas fa-dolly-flatbed opacity-10"></i>
+                                            </div>
+                                        </div>
+                                        <div class="card-body pt-0 p-3 text-center">
+                                            <h6 class="text-center mb-0">Warehouse</h6>
+                                            <span class="text-xs">Fishing Gear & Packaging</span>
+                                            <hr class="horizontal dark my-1">
+                                            <h5 class="mb-0">Armazens</h5>
                                         </div>
                                     </div>
-                                    <div class="card-body pt-0 p-3 text-center">
-                                        <h6 class="text-center mb-0">Warehouse</h6>
-                                        <span class="text-xs">Fishing Gear & Packaging</span>
-                                        <hr class="horizontal dark my-1">
-                                        <h5 class="mb-0">Armazens</h5>
-                                    </div>
-                                </div>
+                                </a>
                             </div>
+
 
                             <div class="col-md-4 mt-md-0 mt-4">
                                 <div class="card">
