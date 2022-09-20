@@ -25,11 +25,11 @@
 
     <div class="container-fluid py-12">
         <div class="row">
-            <div class="col-lg-8">
+            <div class="col-sm-5">
                 <div class="row">
 
 
-                            <div class="col-md-4">
+                            <div class="col-md-4 mt-md-0 mt-4">
                                 <a href="{{ route('wh-index') }}">
                                     <div class="card">
                                         <div class="card-header mx-4 p-3 text-center">
